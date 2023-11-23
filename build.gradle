@@ -14,8 +14,8 @@ repositories {
 }
 
 dependencies {
-    testImplementation 'io.rest-assured:rest-assured:5.3.1'
-    testImplementation 'org.junit.jupiter:junit-jupiter:5.6.1'
+    testImplementation 'io.rest-assured:rest-assured:5.3.2'
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.9.0'
 }
 
 test {
